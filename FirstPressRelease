@@ -1,0 +1,33 @@
+FOR IMMEDIATE RELEASE
+New Open-Source Project ‘OSVP’ Launched to Combat AI Hallucinations and Human Bias in Science
+A community-driven effort to build a transparent, scalable validation layer for the future of scientific discovery.
+
+[U.S. Virgin Islands] – December 4, 2025 – Today marks the launch of the OpenScience Validation Protocol (OSVP), a new open-source initiative aimed at solving one of the most pressing challenges in the age of artificial intelligence: ensuring the reliability and integrity of scientific research. As AI models begin to generate scientific hypotheses at an unprecedented rate, the project provides a public, transparent infrastructure to validate claims, catch errors, and, most critically, protect breakthrough ideas from systemic bias. The project’s complete plans and initial code are now available on GitHub.
+
+The project addresses what its founder, Juan Carlos Paredes, calls the "Double Error Problem" in science. While concerns about AI "hallucinations"—inaccurate or fabricated information—are growing, the history of science is filled with examples of human-driven errors, where expert consensus has systematically rejected correct but revolutionary ideas.
+
+"We worry about AI making mistakes, but we forget that humans do, too. We just call it paradigm lock or groupthink," says Paredes. "The system that rejected the idea that bacteria cause ulcers is the same system we're now asking to handle an explosion of AI-generated science. It’s not equipped for the task. We need an upgrade."
+
+OSVP proposes a novel solution that operates at the level of individual "atomic claims" rather than entire papers. The system is designed to:
+
+Deconstruct scientific content into specific, verifiable assertions.
+Score each claim for risk, novelty, and potential impact.
+Route claims to a decentralized network of human experts for rapid validation.
+
+The project's key innovation is its "Anti-Innovator's Dilemma Shield," a protocol designed to identify potentially paradigm-shifting ideas and route them to a more diverse group of reviewers, including early-career researchers and experts from adjacent fields. This is intended to prevent "expert bias," where domain leaders may be too invested in the current paradigm to fairly evaluate a truly disruptive idea.
+
+"Peer review is the bottleneck of science, and it’s a bottleneck that actively filters out the most important breakthroughs," Paredes states. "OSVP is designed to do the opposite. It’s an immune system for science that attacks errors while protecting and nurturing the novel ideas that drive progress."
+
+The project is launching with a clear choice for its future. The founder has committed to keeping OSVP a fully open-source, community-owned public good if it gains traction. If the community effort does not materialize, a more conventional company will be formed to ensure the problem is solved. The message is clear: the future of this critical infrastructure is up to the scientific and open-source communities.
+
+The project is calling for contributors of all backgrounds—from developers and data scientists to researchers, designers, and communicators—to help build this essential public utility.
+
+About the OpenScience Validation Protocol (OSVP):
+The OpenScience Validation Protocol is an open-source project dedicated to creating a decentralized, transparent, and scalable system for validating scientific claims. By combining machine learning with a distributed network of human experts, OSVP aims to accelerate scientific discovery while ensuring its integrity and protecting novel ideas from systemic bias.
+Learn more and contribute at:
+https://github.com/GoodRoyal/OSVP/Media Contact:
+[Your Name/Project Name]
+[Your Email Address]
+###
+Suggested Hashtags for Social Media:
+#OpenScience #AI #DeSci #OSVP #FutureOfScience #PeerReview #ScienceTwitter
